@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">mobapp</string>
+
+    <string name="daily_events">Daily Events</string>
+    <string name="sub_heading">Plan your day and mark finished tasks.</string>
+    <string name="empty_event">No events yet. Tap + to add your first event.</string>
+    <string name="add_event">Add Event</string>
+
+    <string name="mark_complete">Mark complete</string>
+
+    <string name="event_title">Event title</string>
+    <string name="date">Date</string>
+    <string name="notes">Notes</string>
+    <string name="save_events">Save Event</string>
 </resources>
